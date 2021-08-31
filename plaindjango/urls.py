@@ -20,5 +20,5 @@ from .views import pallabdef
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('akai/', pallabdef),
+    path('pallab/', pallabdef),
 ]
